@@ -2,6 +2,8 @@
 
 Our company focused on a Gym or Fitness website (single Page category website) using React, Redux, Firebase, react-router, node, express, MongoDB, etc.
 
+![fitness](https://user-images.githubusercontent.com/67818482/148271127-16672686-be45-4ef8-ab35-15bfc074e27a.PNG)
+
 * Website ideas are unique like the Themeforest website theme.
 
 * The home page has a header (simple navbar), Carousel, Classes, Schedule, About us, Contact, and footer. 
