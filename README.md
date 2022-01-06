@@ -49,6 +49,5 @@ Replace the default react favicon and give an icon for our website.
 ### Share Link:
 
 * Live Side: https://fitness-26c3f.web.app/
-* Client-Side Code : 
 * Server-Side Code : 
 
